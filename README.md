@@ -1,2 +1,2 @@
 # claseMaquinaVirtualesCT
-aqui esta la informacion de consulta 
+Aqui esta la informacion de consulta 
